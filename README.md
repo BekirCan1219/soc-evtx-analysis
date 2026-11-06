@@ -1,10 +1,10 @@
 # SOC EVTX Analysis
 
-Merhaba, SOC alanında kariyerime yeni başlıyorum. Bu repoda Windows olay günlükleri üzerine yaptığım analiz çalışmalarını paylaşıyorum.
+Merhaba, SOC alanında kendimi geliştirmeye devam ediyorum. Bu repoda Windows olay günlükleri üzerine yaptığım analiz çalışmalarını paylaşıyorum.
 
 ## Amaç
 
-Farklı log kayıtlarını inceleyerek olayları doğru okumayı, sıraya koymayı ve sade bir dille raporlamayı öğrenmek.
+Farklı log kayıtlarını inceleyerek olayları doğru okumayı, sıraya koymayı ve sade bir dille raporlamayı öğrenmek ve bunu pratiğe dökmek.
 
 ## İçerik
 
